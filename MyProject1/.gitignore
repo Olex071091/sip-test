@@ -1,0 +1,20 @@
+# Build output
+/Debug/
+/Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# IDE / workspace
+.settings/
+.metadata/
+*.launch
+.mxproject
+
+# OS files
+.DS_Store
+Thumbs.db
